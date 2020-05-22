@@ -1,5 +1,3 @@
-feather.replace()
-
 let date = new Date().getFullYear()
 
 document.getElementById('data').innerHTML = date
